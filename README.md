@@ -1,2 +1,2 @@
 # portfolio
-Repo for my portfolio repository
+Repo for the orgam=nizations portfolio
