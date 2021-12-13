@@ -1,2 +1,2 @@
 # portfolio
-Repo for the orgam=nizations portfolio
+Repo for the organizations portfolio
